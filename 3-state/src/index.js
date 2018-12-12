@@ -13,9 +13,7 @@
 // - Hint: you'll need an `updateThePage` function that calls `render`,
 //   and then you'll need to call it in the event handlers of the form controls
 ////////////////////////////////////////////////////////////////////////////////
-import "./index.css";
-// import "./lecture";
-// import "./lecture-hooks";
+import './index.css'
+// import './lecture'
 // import "./solution";
-// import "./solution-hooks";
-import "./exercise";
+import './exercise'
