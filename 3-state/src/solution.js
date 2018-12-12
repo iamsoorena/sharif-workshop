@@ -7,13 +7,6 @@
 //    handlers yet!)
 // 3. Use that same state to decide which panel to render
 // 4. Add click handlers to the tabs to change the state
-//
-// BONUS!
-//
-// 5. Come up with your own data and render another set of
-//    tabs
-// 6. Render the second set of tabs INSIDE THE PANEL OF THE
-//    FIRST TABS!
 ////////////////////////////////////////////////////////////////////////////////
 import React from "react";
 import ReactDOM from "react-dom";
