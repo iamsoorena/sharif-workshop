@@ -4,9 +4,24 @@ import ReactDOM from 'react-dom'
 import sortBy from 'sort-by'
 
 let items = [
-  {id: 1, name: 'tacos', type: 'mexican', price: 6},
-  {id: 2, name: 'burrito', type: 'mexican', price: 9},
-  {id: 3, name: 'tostada', type: 'mexican', price: 8},
+  {
+    id: 1,
+    name: 'tacos',
+    type: 'mexican',
+    price: 6
+  },
+  {
+    id: 2,
+    name: 'burrito',
+    type: 'mexican',
+    price: 9
+  },
+  {
+    id: 3,
+    name: 'tostada',
+    type: 'mexican',
+    price: 8
+  },
   {
     id: 4,
     name: 'mushy peas',
